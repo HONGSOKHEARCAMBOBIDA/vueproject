@@ -1,7 +1,7 @@
 <template>
   <header class="header">
         <div class="logo-title">
-<img src="https://hongsokhearcambobida.github.io/vueproject/logo.png" width="70" height="70"/>
+<img src="https://hongsokhearcambobida.github.io/vueproject/logo.png" width="60" height="60"/>
     <h1>ក្រុមហ៊ុន កាក់ ឯ.ក KAG Co., LTD</h1>
   </div>
     <nav>
