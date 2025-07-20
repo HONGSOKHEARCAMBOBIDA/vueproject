@@ -1,7 +1,7 @@
 <template>
   <header class="header">
         <div class="logo-title">
-    <img src="/logo.png" alt="KAG Logo" class="logo" />
+   <img :src="require('@/assets/logo.png')"/>
     <h1>ក្រុមហ៊ុន កាក់ ឯ.ក KAG Co., LTD</h1>
   </div>
     <nav>
