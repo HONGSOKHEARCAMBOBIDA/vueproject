@@ -1,6 +1,6 @@
 <template>
   <section class="hero">
-    <img src="/bo.jpg" alt="Loan Service" class="hero-image" />
+    <img src="https://hongsokhearcambobida.github.io/vueproject/bo.jpg" alt="Loan Service" class="hero-image" />
     <div class="hero-text">
       <h2>សូមស្វាគមន៍មកកាន់ក្រុមហ៊ុន កាក់ ឯ.ក</h2>
       <p>
